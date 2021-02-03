@@ -16,3 +16,7 @@ Python Notebooks:
 UDP File Server:
 - Written for EEL4781 - Computer Communication Networks
 - A C program written for a Linux server that allows a person (using the school provided port) to download files to the location of the client instance.
+
+Computer Architecture Simulations:
+- Written for EEL4768 - Computer Architecture
+- C programs written to simulate branch predictors and caches.
