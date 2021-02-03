@@ -1,0 +1,17 @@
+The extra credit functions were implemented as specified in the assignment.
+
+i.e.:
+
+repeat n command args | repeat, command, and args are all strings. n is an integer.
+
+repeat 4 background /usr/bin/xterm | Starts 4 instances of xterm at the absolute path specified and prints their PIDS when started.
+
+exterminateall | type all as one word. a string.
+
+exterminateall | Attempts to kill every process started by mysh. Will say "murdering N processes" and list the pids that were murdered. Will also attempt to kill processes that may have been killed outside of the shell's control.
+
+====
+
+I also added help(), listpids(), and listfiles() functions for ease of use. 'help' lists commands, 'listpids' lists all the pids launched by the shell that may still be running, and 'listfiles' uses the ls command of bash to list every file in the directory you are looking in.
+
+Additionally, I ask that you pardon any messy C++ code, as this is my first time trying the language's capabilities.

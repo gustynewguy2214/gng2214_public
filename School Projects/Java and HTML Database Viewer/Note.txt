@@ -1,0 +1,7 @@
+I did the bonus problem implementation.
+
+NOTICE:
+
+Please start with a fresh session (as in 0 active sessions to start), and clear out cookies in the tomcat manager and inside the app itself (after one or more runs). Stop / start / restart the project before evaluation. This is required due to Tomcat caching everything it finds and leaving behind previous runs of the servlet.
+
+Dr. Llewellyn has given permission to submit without this issue being resolved, as this is an issue that goes beyond the scope of the project.
