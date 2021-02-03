@@ -1,3 +1,0 @@
-Pictures are named as:
-
-[(p)roject_(number)][(r)oot or (c)lient][command][number][sub-command]
