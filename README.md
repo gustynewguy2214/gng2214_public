@@ -9,7 +9,7 @@ The repositories I have worked with for my group projects can be found in my pro
 
 ================
 
-Specially included are the files for my engineering capstone project - Bubbles Under the Sea. It's a submarine with a rotatable camera that uses UDP to transmit video and sensor data back to the controller. The controller file was co-authored with another group mate.
+Specially included are the files for my group engineering capstone project - Bubbles Under the Sea. It's a submarine with a rotatable camera that uses UDP to transmit video and sensor data back to the controller. The controller file was co-authored with another group mate.
 
 Presentation video link: https://youtu.be/5KdZe2JaWio
 
